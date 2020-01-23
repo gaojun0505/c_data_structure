@@ -1,9 +1,8 @@
-#include <iostream>
-using namespace std;
+#include "list/list_test.h"
 
 int main()
 {
-    cout << "HelloWorld!!"<<endl;
+
     return 0;
 }
 
